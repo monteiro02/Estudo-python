@@ -1,0 +1,44 @@
++: Adição
+-: Subtração
+*: Multiplicação
+/: Divisão
+EX:
+5+2==7
+5-2==3
+5*2==10
+5/2==2.5
+#------------------------------------------------------------------
+
+Operadores de exponenciação
+**: Potência (É um numero elevado a outro)
+//: Divisão inteira
+%: Resto da divisão
+EX:
+5**2==25
+5//2==2
+5%2==1
+#------------------------------------------------------------------
+
+Dois simbolos de igual(=) é para testar se uma coisa é igual a outra.
+Um sinal de igual(=) se le como 'recebe'.
+#------------------------------------------------------------------
+
+Qual o resultado da divisão inteiro?
+Qual o resultado do resto da divisão?
+Arma a conta, divide sem usar virgula, e quando não der mais para dividir, pega o valor inteiro e coloca como resultado do valor inteiro, pega o resto da divisão e coloca como o módulo utilizando a porcentagem.
+#------------------------------------------------------------------
+
+No python para expressões aritméticas só é utilizado apenas ()
+Ordem de precedencia:
+1ª ()
+2ª **
+3ª *, /, //, %, faz quem aparecer primeiro
+4ª +, -
+
+5+3*2==11
+3*5+4**2==31
+3*(5+4)**2==243
+#------------------------------------------------------------------------
+
+Para calcular a média é dividir por 2
+

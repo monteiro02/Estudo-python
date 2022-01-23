@@ -1,0 +1,5 @@
+Tipos primitivos:
+# int: Numeros inteiros. ex(7, -4, 0, 9875)
+# float: Numeros reais ou numeros de pontos flutuantes. ex(4.5, 0.076, -15.223, 7.0)
+# bool: Valores logicos ou boleanos. ex(True ou 1, False ou 0)
+# str: Valores caracteres ou strings. ex('Olá', '7.5', '')
